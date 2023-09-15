@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T07:59:49.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8XmnVKz9t0eKzeIolaKq" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T08:05:27.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="38RK0BOZtQvTOMkK8F5I" version="21.7.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         <mxCell id="MCtNikCPTZf5p3EjCd2L-45" value="Компании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-43">
           <mxGeometry x="60" y="78" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MCtNikCPTZf5p3EjCd2L-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MCtNikCPTZf5p3EjCd2L-46" target="MCtNikCPTZf5p3EjCd2L-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MCtNikCPTZf5p3EjCd2L-46" value="Сливная станция" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="200" height="80" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
           <mxGeometry x="80" y="280" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MCtNikCPTZf5p3EjCd2L-57" value="1. Экономия времени &lt;br&gt;при заказе услуги" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-52">
-          <mxGeometry x="30" y="33" width="140" height="40" as="geometry" />
+          <mxGeometry x="30" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MCtNikCPTZf5p3EjCd2L-58" value="2. Уверенность &lt;br&gt;в выполнении заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-52">
           <mxGeometry x="30" y="80" width="140" height="40" as="geometry" />
@@ -68,6 +71,15 @@
         </mxCell>
         <mxCell id="MCtNikCPTZf5p3EjCd2L-64" value="4. Сокращение &lt;br&gt;замороженных средств" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-59">
           <mxGeometry x="25" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MCtNikCPTZf5p3EjCd2L-65" value="Ценность" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MCtNikCPTZf5p3EjCd2L-66" value="1. Сокращение издержек&lt;br&gt;на реализацию и контроль&lt;br&gt;списания талонов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-65">
+          <mxGeometry x="15" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MCtNikCPTZf5p3EjCd2L-68" value="2. Исключение хищений&lt;br&gt;при сливах" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MCtNikCPTZf5p3EjCd2L-65">
+          <mxGeometry x="20" y="100" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
